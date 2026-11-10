@@ -1,6 +1,6 @@
 
 print("Hello, GitHub!")
 
-name = "Ye"
+name = "Yeye"
 print(f"Welcome to my first Python project, {name}!")
   
